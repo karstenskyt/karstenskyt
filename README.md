@@ -25,7 +25,7 @@ Most recently Software Architect at Ellevation Education (2016–2025), where I 
 
 Previously at NaviNet designing healthcare transaction platforms (HIPAA/EDI). 
 
-Originally from Denmark; M.S. and Ph.D. coursework in Computer Science (University of Florida / University of Michigan).
+Originally from Denmark; B.S., M.S. and Ph.D. coursework in Computer Science (Aarhus University / University of Florida / University of Michigan).
 
 ## Connect
 
